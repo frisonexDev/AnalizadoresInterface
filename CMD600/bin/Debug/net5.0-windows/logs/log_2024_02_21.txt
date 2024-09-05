@@ -1,0 +1,30 @@
+21/2/2024 14:31:24-Conectando con GALILEO ONLINE
+
+21/2/2024 14:31:30-Se encuentra el analizador configurado.
+
+21/2/2024 14:31:30-Inicia la aplicación
+
+21/2/2024 14:31:30-Esperando Conexión del Instrumento CLIA 1000
+
+21/2/2024 14:31:31-Escuchando el puerto: 6505 por TCP/IP
+
+21/2/2024 14:42:47-Conectando con GALILEO ONLINE
+
+21/2/2024 14:42:55-Se encuentra el analizador configurado.
+
+21/2/2024 14:42:55-Inicia la aplicación
+
+21/2/2024 14:42:55-Esperando Conexión del Instrumento CLIA 1000
+
+21/2/2024 14:42:55-Escuchando el puerto: 6505 por TCP/IP
+
+21/2/2024 14:44:35-Conectando con GALILEO ONLINE
+
+21/2/2024 14:44:40-Se encuentra el analizador configurado.
+
+21/2/2024 14:44:40-Inicia la aplicación
+
+21/2/2024 14:44:40-Esperando Conexión del Instrumento CLIA 1000
+
+21/2/2024 14:46:10-Escuchando el puerto: 6505 por TCP/IP
+

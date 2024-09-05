@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Zebra.Printer.SDK" Version="2.15.2634" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Galileo.Connect\Galileo.Connect.csproj" />
+    <ProjectReference Include="..\Galileo.Utils\Galileo.Utils.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Configs\LabelDesign.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

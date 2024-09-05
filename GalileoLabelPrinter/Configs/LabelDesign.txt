@@ -1,0 +1,18 @@
+﻿^XA
+^FX Imprimir el nombre del laboiratorio
+^FO50,5^A0N,20,20^FB300,1,0,C,0^FD[LabName]^FS
+^FX Imprimir el nombre del paciente, en la posicion FO X,Y el Tamaño va luego de AON
+^FO50,25^A0N,15,15^FB300,1,0,C,0^FD[PatientName]^FS
+^FX Imprimir la Id del paciente
+^FO50,40^A0N,14,14^FB300,1,0,C,0^FD[PatientId]^FS
+^FX Imprimir el código de barras
+^FO90,55
+^BY1  // Establece el ancho de las barras a 2 (ajusta el valor según tus necesidades)
+^BCN,70,N,N,N
+^FD[SampleId]^FS
+^FX Imprimir la interpretacion del código de barras
+^FO50,135^A0N,18,18^FB300,1,0,C,0^FD[SampleId]^FS
+^FO50,155^A0N,15,15^FB300,1,0,C,0^FD[Container]^FS
+^FO50,170^A0N,14,14^FB300,1,0,C,0^FD[Source] - [Date]^FS
+^XZ
+

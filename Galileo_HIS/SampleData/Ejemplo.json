@@ -1,0 +1,46 @@
+{
+  "idLaboratorio": 18,
+  "idSede": 1,
+  "CieDiagnostico": "",
+  "IdSistemaExterno": 2,
+  "Paciente": {
+    "Identificador": "17139379471",
+    "NombrePaciente": "XAVIER IGNACIO",
+    "ApellidoPaciente": "VILLAFUERTE THOLA",
+    "FechaNacimiento": "2015-11-25T05:36:49.491Z",
+    "Genero": "M",
+    "CorreoElectronico": "luchovt@hotmail.com",
+    "CamposAdicional": [
+      
+    ]
+  },
+  "Medico": {
+    "Nombre": "PAULO",
+    "Apellido": "VARGAS",
+    "Matricula": "1256325",
+    "Telefono": "098456325",
+    "Email": "ovargas1@hotmail.com"
+  },
+  "prioridadOrden": "R",
+  "fechaIngreso": "2022-07-28T05:36:49.491Z",
+  "comentario": "prueba de Integracion",
+  "codigoExterno": "EXTERNO0005",
+  "usuario": "SOPORTE_HL",
+  "detalleOrden": [
+    {
+      "CodigoExamen": "GLU001",
+      "NombreExamenPerfil": "GLUCOSA"
+    }
+
+
+  ],
+  "informacionOrden": [
+    
+  ],
+  "tomaMuestra": {
+    "tomaRemota": true,
+    "direccionToma": "string",
+    "activo": true
+  },
+  "activo": true
+}

@@ -1,0 +1,356 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "Apitron.PDF.Controls/1.0.170": {
+        "type": "package",
+        "compile": {
+          "lib/net461/Apitron.PDF.Controls.dll": {
+            "related": ".xml"
+          },
+          "lib/net461/Apitron.PDF.Rasterizer.dll": {}
+        },
+        "runtime": {
+          "lib/net461/Apitron.PDF.Controls.dll": {
+            "related": ".xml"
+          },
+          "lib/net461/Apitron.PDF.Rasterizer.dll": {}
+        }
+      },
+      "iTextSharp/5.5.13.1": {
+        "type": "package",
+        "compile": {
+          "lib/itextsharp.dll": {}
+        },
+        "runtime": {
+          "lib/itextsharp.dll": {}
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "RestSharp/106.13.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/RestSharp.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/RestSharp.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Galileo.Connect/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Galileo.Utils": "1.0.0",
+          "Newtonsoft.Json": "13.0.1",
+          "RestSharp": "106.13.0",
+          "iTextSharp": "5.5.13.1"
+        },
+        "compile": {
+          "bin/placeholder/Galileo.Connect.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Galileo.Connect.dll": {}
+        }
+      },
+      "Galileo.Utils/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "compile": {
+          "bin/placeholder/Galileo.Utils.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Galileo.Utils.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "Apitron.PDF.Controls/1.0.170": {
+      "sha512": "M+nr/YTNtiBRV9QLt1He7u4WVDFC1+lv88AuVRUT4qUMh5gbY30/tO06T5X1l7R6wKNfb3SOm7SCG2rGNAZRRQ==",
+      "type": "package",
+      "path": "apitron.pdf.controls/1.0.170",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "apitron.pdf.controls.1.0.170.nupkg.sha512",
+        "apitron.pdf.controls.nuspec",
+        "lib/net35/Apitron.PDF.Controls.dll",
+        "lib/net35/Apitron.PDF.Controls.xml",
+        "lib/net35/Apitron.PDF.Rasterizer.dll",
+        "lib/net40-client/Apitron.PDF.Controls.dll",
+        "lib/net40-client/Apitron.PDF.Controls.xml",
+        "lib/net40-client/Apitron.PDF.Rasterizer.dll",
+        "lib/net40/Apitron.PDF.Controls.dll",
+        "lib/net40/Apitron.PDF.Controls.xml",
+        "lib/net40/Apitron.PDF.Rasterizer.dll",
+        "lib/net45/Apitron.PDF.Controls.dll",
+        "lib/net45/Apitron.PDF.Controls.xml",
+        "lib/net45/Apitron.PDF.Rasterizer.dll",
+        "lib/net451/Apitron.PDF.Controls.dll",
+        "lib/net451/Apitron.PDF.Controls.xml",
+        "lib/net451/Apitron.PDF.Rasterizer.dll",
+        "lib/net452/Apitron.PDF.Controls.dll",
+        "lib/net452/Apitron.PDF.Controls.xml",
+        "lib/net452/Apitron.PDF.Rasterizer.dll",
+        "lib/net46/Apitron.PDF.Controls.dll",
+        "lib/net46/Apitron.PDF.Controls.xml",
+        "lib/net46/Apitron.PDF.Rasterizer.dll",
+        "lib/net461/Apitron.PDF.Controls.dll",
+        "lib/net461/Apitron.PDF.Controls.xml",
+        "lib/net461/Apitron.PDF.Rasterizer.dll",
+        "lib/net462/Apitron.PDF.Controls.dll",
+        "lib/net462/Apitron.PDF.Controls.xml",
+        "lib/net462/Apitron.PDF.Rasterizer.dll",
+        "lib/net47/Apitron.PDF.Controls.dll",
+        "lib/net47/Apitron.PDF.Controls.xml",
+        "lib/net47/Apitron.PDF.Rasterizer.dll",
+        "lib/net471/Apitron.PDF.Controls.dll",
+        "lib/net471/Apitron.PDF.Controls.xml",
+        "lib/net471/Apitron.PDF.Rasterizer.dll",
+        "lib/net472/Apitron.PDF.Controls.dll",
+        "lib/net472/Apitron.PDF.Controls.xml",
+        "lib/net472/Apitron.PDF.Rasterizer.dll",
+        "lib/net48/Apitron.PDF.Controls.dll",
+        "lib/net48/Apitron.PDF.Controls.xml",
+        "lib/net48/Apitron.PDF.Rasterizer.dll"
+      ]
+    },
+    "iTextSharp/5.5.13.1": {
+      "sha512": "xqzsYEYW/nMDjCtAXM5cl9fWil/Ju3HEGbsmoTKtltJc3M/9HNJzg++bCIOHm5uZITvRmZJWMO+S2u1yNG0gQg==",
+      "type": "package",
+      "path": "itextsharp/5.5.13.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "gnu-agpl-v3.0.md",
+        "itextsharp.5.5.13.1.nupkg.sha512",
+        "itextsharp.nuspec",
+        "lib/iTextSharp.xml",
+        "lib/itextsharp.dll",
+        "notice.txt"
+      ]
+    },
+    "Newtonsoft.Json/13.0.1": {
+      "sha512": "ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "type": "package",
+      "path": "newtonsoft.json/13.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "newtonsoft.json.13.0.1.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "RestSharp/106.13.0": {
+      "sha512": "vwUdmmtC5vtePeNfBWnFcixBF2KjUeVv3ss4ZFzCIkOf7NB7W/9qX8JNZD9DOrz2yGk4AJW8k9znwgPZhnoiNg==",
+      "type": "package",
+      "path": "restsharp/106.13.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net452/RestSharp.dll",
+        "lib/net452/RestSharp.xml",
+        "lib/netstandard2.0/RestSharp.dll",
+        "lib/netstandard2.0/RestSharp.xml",
+        "restsharp.106.13.0.nupkg.sha512",
+        "restsharp.nuspec",
+        "restsharp.png"
+      ]
+    },
+    "Galileo.Connect/1.0.0": {
+      "type": "project",
+      "path": "../../Galileo.Connect/Galileo.Connect.csproj",
+      "msbuildProject": "../../Galileo.Connect/Galileo.Connect.csproj"
+    },
+    "Galileo.Utils/1.0.0": {
+      "type": "project",
+      "path": "../../Galileo.Utils/Galileo.Utils.csproj",
+      "msbuildProject": "../../Galileo.Utils/Galileo.Utils.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "Apitron.PDF.Controls >= 1.0.170",
+      "Galileo.Connect >= 1.0.0",
+      "Newtonsoft.Json >= 13.0.1",
+      "devexpress.win.pdfviewer >= 22.1.6",
+      "iTextSharp >= 5.5.13.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\LABORATORIO\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\UTILITARIOS FRISONEX\\INTERFACES\\LISEscritorio_FRX1\\HIS\\ELANGEL\\Galileo_HIS_El_Angel.csproj",
+      "projectName": "Galileo_LIS",
+      "projectPath": "C:\\UTILITARIOS FRISONEX\\INTERFACES\\LISEscritorio_FRX1\\HIS\\ELANGEL\\Galileo_HIS_El_Angel.csproj",
+      "packagesPath": "C:\\Users\\LABORATORIO\\.nuget\\packages\\",
+      "outputPath": "C:\\UTILITARIOS FRISONEX\\INTERFACES\\LISEscritorio_FRX1\\HIS\\ELANGEL\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\LABORATORIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "C:\\UTILITARIOS FRISONEX\\INTERFACES\\LISEscritorio_FRX1\\Galileo.Connect\\Galileo.Connect.csproj": {
+              "projectPath": "C:\\UTILITARIOS FRISONEX\\INTERFACES\\LISEscritorio_FRX1\\Galileo.Connect\\Galileo.Connect.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "dependencies": {
+          "Apitron.PDF.Controls": {
+            "target": "Package",
+            "version": "[1.0.170, )"
+          },
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[13.0.1, )"
+          },
+          "devexpress.win.pdfviewer": {
+            "target": "Package",
+            "version": "[22.1.6, )"
+          },
+          "iTextSharp": {
+            "target": "Package",
+            "version": "[5.5.13.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.17, 5.0.17]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "No se encuentra el paquete devexpress.win.pdfviewer. No existe ningún paquete con este id. en los orígenes: Microsoft Visual Studio Offline Packages, nuget.org",
+      "libraryId": "devexpress.win.pdfviewer",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"Apitron.PDF.Controls 1.0.170\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net5.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "Apitron.PDF.Controls",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"iTextSharp 5.5.13.1\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net5.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "iTextSharp",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}

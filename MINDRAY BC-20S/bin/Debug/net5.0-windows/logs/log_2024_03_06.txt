@@ -1,0 +1,673 @@
+06/03/2024 14:26:18-Conectando con GALILEO ONLINE
+
+06/03/2024 14:26:29-Se encuentra el analizador configurado.
+
+06/03/2024 14:26:29-Inicia la aplicación
+
+06/03/2024 14:26:29-Esperando Conexión del Instrumento Mindray BC-20S
+
+06/03/2024 14:27:02-Conectando con GALILEO ONLINE
+
+06/03/2024 14:27:10-Se encuentra el analizador configurado.
+
+06/03/2024 14:27:10-Inicia la aplicación
+
+06/03/2024 14:27:10-Esperando Conexión del Instrumento Mindray BC-20S
+
+06/03/2024 14:27:50-Conectando con GALILEO ONLINE
+
+06/03/2024 14:27:58-Se encuentra el analizador configurado.
+
+06/03/2024 14:27:58-Inicia la aplicación
+
+06/03/2024 14:27:58-Esperando Conexión del Instrumento Mindray BC-20S
+
+06/03/2024 14:28:46-Conectando con GALILEO ONLINE
+
+06/03/2024 14:28:53-Se encuentra el analizador configurado.
+
+06/03/2024 14:28:53-Inicia la aplicación
+
+06/03/2024 14:28:53-Esperando Conexión del Instrumento Mindray BC-20S
+
+06/03/2024 14:33:20-Conectando con GALILEO ONLINE
+
+06/03/2024 14:33:28-Se encuentra el analizador configurado.
+
+06/03/2024 14:33:28-Inicia la aplicación
+
+06/03/2024 14:33:28-Esperando Conexión del Instrumento Mindray BC-20S
+
+06/03/2024 14:33:46-Escuchando el puerto: 5100 por TCP/IP
+
+06/03/2024 15:00:56-Conectando con GALILEO ONLINE
+
+06/03/2024 15:01:09-Se encuentra el analizador configurado.
+
+06/03/2024 15:01:10-Inicia la aplicación
+
+06/03/2024 15:01:10-Esperando Conexión del Instrumento Mindray BC-20S
+
+06/03/2024 15:08:00-Conectado al analizador por  el puerto: 5100 por TCP/IP
+
+06/03/2024 15:08:29-06/03/2024 15:08:29	MINDRAY:	<SB>MSH|^~\&|||||20240307040356||ORU^R01|1|P|2.3.1||||||UNICODE<CR>
+
+06/03/2024 15:08:29-06/03/2024 15:08:29	MINDRAY:	PID|1||^^^^MR<CR>
+
+06/03/2024 15:08:29-06/03/2024 15:08:29	MINDRAY:	PV1|1<CR>
+
+06/03/2024 15:08:29-06/03/2024 15:08:29	MINDRAY:	OBR|1||1|00001^Automated Count^99MRC|||20230801032922|||||||||||||||||HM||||||||service<CR>
+
+06/03/2024 15:08:29-06/03/2024 15:08:29	MINDRAY:	OBX|1|IS|08001^Take Mode^99MRC||O||||||F<CR>
+
+06/03/2024 15:08:29-06/03/2024 15:08:29	MINDRAY:	OBX|2|IS|08002^Blood Mode^99MRC||W||||||F<CR>
+
+06/03/2024 15:08:29-06/03/2024 15:08:29	MINDRAY:	OBX|3|IS|01002^Ref Group^99MRC||General||||||F<CR>
+
+06/03/2024 15:08:29-06/03/2024 15:08:29	MINDRAY:	OBX|4|NM|6690-2^WBC^LN||0.0|10*3/uL|4.0-10.0|L~N|||F<CR>
+
+06/03/2024 15:08:29-06/03/2024 15:08:29	MINDRAY:	OBX|5|NM|731-0^LYM#^LN||*****|10*3/uL|0.8-4.0|N|||F<CR>
+
+06/03/2024 15:08:29-06/03/2024 15:08:29	MINDRAY:	OBX|6|NM|736-9^LYM%^LN||*****|%|20.0-40.0|N|||F<CR>
+
+06/03/2024 15:08:29-06/03/2024 15:08:29	MINDRAY:	OBX|7|NM|789-8^RBC^LN||0.00|10*6/uL|3.50-5.50|L~N|||F<CR>
+
+06/03/2024 15:08:29-06/03/2024 15:08:29	MINDRAY:	OBX|8|NM|718-7^HGB^LN||0.0|g/dL|11.0-16.0|L~N|||F<CR>
+
+06/03/2024 15:08:29-06/03/2024 15:08:29	MINDRAY:	OBX|9|NM|787-2^MCV^LN||*****|fL|80.0-100.0|N|||F<CR>
+
+06/03/2024 15:08:29-06/03/2024 15:08:29	MINDRAY:	OBX|10|NM|785-6^MCH^LN||*****|pg|27.0-34.0|N|||F<CR>
+
+06/03/2024 15:08:29-06/03/2024 15:08:29	MINDRAY:	OBX|11|NM|786-4^MCHC^LN||*****|g/dL|32.0-36.0|N|||F<CR>
+
+06/03/2024 15:08:29-06/03/2024 15:08:29	MINDRAY:	OBX|12|NM|788-0^RDW-CV^LN||*****|%|11.0-16.0|N|||F<CR>
+
+06/03/2024 15:08:29-06/03/2024 15:08:29	MINDRAY:	OBX|13|NM|21000-5^RDW-SD^LN||*****|fL|35.0-56.0|N|||F<CR>
+
+06/03/2024 15:08:29-06/03/2024 15:08:29	MINDRAY:	OBX|14|NM|4544-3^HCT^LN||0.0|%|37.0-54.0|L~N|||F<CR>
+
+06/03/2024 15:08:29-06/03/2024 15:08:29	MINDRAY:	OBX|15|NM|777-3^PLT^LN||1|10*3/uL|100-300|L~N|||F<CR>
+
+06/03/2024 15:08:29-06/03/2024 15:08:29	MINDRAY:	OBX|16|NM|32623-1^MPV^LN||*****|fL|6.5-12.0|N|||F<CR>
+
+06/03/2024 15:08:29-06/03/2024 15:08:29	MINDRAY:	OBX|17|NM|32207-3^PDW^LN||*****||15.0-17.0|N|||F<CR>
+
+06/03/2024 15:08:30-06/03/2024 15:08:30	MINDRAY:	OBX|18|NM|10002^PCT^99MRC||*****|%|0.108-0.282|N|||F<CR>
+
+06/03/2024 15:08:30-06/03/2024 15:08:30	MINDRAY:	OBX|19|NM|10027^MID#^99MRC||*****|10*3/uL|0.1-1.5|N|||F<CR>
+
+06/03/2024 15:08:30-06/03/2024 15:08:30	MINDRAY:	OBX|20|NM|10029^MID%^99MRC||*****|%|3.0-15.0|N|||F<CR>
+
+06/03/2024 15:08:30-06/03/2024 15:08:30	MINDRAY:	OBX|21|NM|10028^GRAN#^99MRC||*****|10*3/uL|2.0-7.0|N|||F<CR>
+
+06/03/2024 15:08:30-06/03/2024 15:08:30	MINDRAY:	OBX|22|NM|10030^GRAN%^99MRC||*****|%|50.0-70.0|N|||F<CR>
+
+06/03/2024 15:08:30-06/03/2024 15:08:30	MINDRAY:	<EB><CR>
+
+{
+  "Header": {
+    "Content": "|^~\\&|||||20240307040356||ORU^R01|1|P|2.3.1||||||UNICODE",
+    "_obsResultCount": 22,
+    "FieldSeparator": "|",
+    "EncodigCharacters": "^~\\&",
+    "EncodingCharacterList": [
+      "^",
+      "~",
+      "\\",
+      "&"
+    ],
+    "SendingApplication": "",
+    "SendingFacility": "",
+    "ReceivingApplication": "",
+    "ReceivingFacility": "",
+    "DateTimeOfMessage": "20240307040356",
+    "Security": "",
+    "MessageType": "ORU^R01",
+    "MessageControlId": "1",
+    "ProcessingId": "P",
+    "VersionId": "2.3.1",
+    "SequenceNumber": "",
+    "ContinuationPointer": "",
+    "AcceptanceACK": "",
+    "AppACK": "",
+    "CountryCode": "",
+    "CharacterSet": "UNICODE",
+    "PrincipalLanguage": null,
+    "AlternateCharacterSet": null
+  },
+  "PatientId": {
+    "Content": "PID|1||^^^^MR",
+    "PatientIdentifier": "MR",
+    "PatientNameContent": null,
+    "Patient": null,
+    "DateOfBirth": "0001-01-01T00:00:00",
+    "Sex": null
+  },
+  "PatientVisit": {
+    "Content": "PV1|1"
+  },
+  "ObservationRequest": {
+    "Content": "OBR|1||1|00001^Automated Count^99MRC|||20230801032922|||||||||||||||||HM||||||||service",
+    "SetId": "1",
+    "PlaceOrderNumber": "",
+    "FillerOrderNumber": "1",
+    "UniversalServiceId": "",
+    "Priority": null,
+    "RequestedTime": "0001-01-01T00:00:00",
+    "ObservationTime": "2023-08-01T03:29:22",
+    "CollectorId": "",
+    "RelevantClinicalInfo": "",
+    "SpecimenReceivedTime": "0001-01-01T00:00:00",
+    "SpecimenSource": "",
+    "ApprovalTime": "0001-01-01T00:00:00",
+    "DiagnosticServId": "HM",
+    "ResultCopiesTo": "service",
+    "ResultInterpreter": null
+  },
+  "ObservationResultList": [
+    {
+      "Content": "OBX|1|IS|08001^Take Mode^99MRC||O||||||F",
+      "Index": 1,
+      "SecuenceId": "1",
+      "ValueType": "IS",
+      "ObservationIdentifier": {
+        "Content": "08001^Take Mode^99MRC",
+        "Identifier": "08001",
+        "Text": "Take Mode",
+        "NameOfCodingSystem": "99MRC"
+      },
+      "ObservationSubId": "",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "O",
+        "Arguments": []
+      },
+      "Units": "",
+      "ReferenceRange": "",
+      "AbnormalFlags": "",
+      "ObservationResultStatus": "F"
+    },
+    {
+      "Content": "OBX|2|IS|08002^Blood Mode^99MRC||W||||||F",
+      "Index": 2,
+      "SecuenceId": "2",
+      "ValueType": "IS",
+      "ObservationIdentifier": {
+        "Content": "08002^Blood Mode^99MRC",
+        "Identifier": "08002",
+        "Text": "Blood Mode",
+        "NameOfCodingSystem": "99MRC"
+      },
+      "ObservationSubId": "",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "W",
+        "Arguments": []
+      },
+      "Units": "",
+      "ReferenceRange": "",
+      "AbnormalFlags": "",
+      "ObservationResultStatus": "F"
+    },
+    {
+      "Content": "OBX|3|IS|01002^Ref Group^99MRC||General||||||F",
+      "Index": 3,
+      "SecuenceId": "3",
+      "ValueType": "IS",
+      "ObservationIdentifier": {
+        "Content": "01002^Ref Group^99MRC",
+        "Identifier": "01002",
+        "Text": "Ref Group",
+        "NameOfCodingSystem": "99MRC"
+      },
+      "ObservationSubId": "",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "General",
+        "Arguments": []
+      },
+      "Units": "",
+      "ReferenceRange": "",
+      "AbnormalFlags": "",
+      "ObservationResultStatus": "F"
+    },
+    {
+      "Content": "OBX|4|NM|6690-2^WBC^LN||0.0|10*3/uL|4.0-10.0|L~N|||F",
+      "Index": 4,
+      "SecuenceId": "4",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "6690-2^WBC^LN",
+        "Identifier": "6690-2",
+        "Text": "WBC",
+        "NameOfCodingSystem": "LN"
+      },
+      "ObservationSubId": "",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "0.0",
+        "Arguments": []
+      },
+      "Units": "10*3/uL",
+      "ReferenceRange": "4.0-10.0",
+      "AbnormalFlags": "L~N",
+      "ObservationResultStatus": "F"
+    },
+    {
+      "Content": "OBX|5|NM|731-0^LYM#^LN||*****|10*3/uL|0.8-4.0|N|||F",
+      "Index": 5,
+      "SecuenceId": "5",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "731-0^LYM#^LN",
+        "Identifier": "731-0",
+        "Text": "LYM#",
+        "NameOfCodingSystem": "LN"
+      },
+      "ObservationSubId": "",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "*****",
+        "Arguments": []
+      },
+      "Units": "10*3/uL",
+      "ReferenceRange": "0.8-4.0",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    },
+    {
+      "Content": "OBX|6|NM|736-9^LYM%^LN||*****|%|20.0-40.0|N|||F",
+      "Index": 6,
+      "SecuenceId": "6",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "736-9^LYM%^LN",
+        "Identifier": "736-9",
+        "Text": "LYM%",
+        "NameOfCodingSystem": "LN"
+      },
+      "ObservationSubId": "",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "*****",
+        "Arguments": []
+      },
+      "Units": "%",
+      "ReferenceRange": "20.0-40.0",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    },
+    {
+      "Content": "OBX|7|NM|789-8^RBC^LN||0.00|10*6/uL|3.50-5.50|L~N|||F",
+      "Index": 7,
+      "SecuenceId": "7",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "789-8^RBC^LN",
+        "Identifier": "789-8",
+        "Text": "RBC",
+        "NameOfCodingSystem": "LN"
+      },
+      "ObservationSubId": "",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "0.00",
+        "Arguments": []
+      },
+      "Units": "10*6/uL",
+      "ReferenceRange": "3.50-5.50",
+      "AbnormalFlags": "L~N",
+      "ObservationResultStatus": "F"
+    },
+    {
+      "Content": "OBX|8|NM|718-7^HGB^LN||0.0|g/dL|11.0-16.0|L~N|||F",
+      "Index": 8,
+      "SecuenceId": "8",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "718-7^HGB^LN",
+        "Identifier": "718-7",
+        "Text": "HGB",
+        "NameOfCodingSystem": "LN"
+      },
+      "ObservationSubId": "",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "0.0",
+        "Arguments": []
+      },
+      "Units": "g/dL",
+      "ReferenceRange": "11.0-16.0",
+      "AbnormalFlags": "L~N",
+      "ObservationResultStatus": "F"
+    },
+    {
+      "Content": "OBX|9|NM|787-2^MCV^LN||*****|fL|80.0-100.0|N|||F",
+      "Index": 9,
+      "SecuenceId": "9",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "787-2^MCV^LN",
+        "Identifier": "787-2",
+        "Text": "MCV",
+        "NameOfCodingSystem": "LN"
+      },
+      "ObservationSubId": "",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "*****",
+        "Arguments": []
+      },
+      "Units": "fL",
+      "ReferenceRange": "80.0-100.0",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    },
+    {
+      "Content": "OBX|10|NM|785-6^MCH^LN||*****|pg|27.0-34.0|N|||F",
+      "Index": 10,
+      "SecuenceId": "10",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "785-6^MCH^LN",
+        "Identifier": "785-6",
+        "Text": "MCH",
+        "NameOfCodingSystem": "LN"
+      },
+      "ObservationSubId": "",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "*****",
+        "Arguments": []
+      },
+      "Units": "pg",
+      "ReferenceRange": "27.0-34.0",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    },
+    {
+      "Content": "OBX|11|NM|786-4^MCHC^LN||*****|g/dL|32.0-36.0|N|||F",
+      "Index": 11,
+      "SecuenceId": "11",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "786-4^MCHC^LN",
+        "Identifier": "786-4",
+        "Text": "MCHC",
+        "NameOfCodingSystem": "LN"
+      },
+      "ObservationSubId": "",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "*****",
+        "Arguments": []
+      },
+      "Units": "g/dL",
+      "ReferenceRange": "32.0-36.0",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    },
+    {
+      "Content": "OBX|12|NM|788-0^RDW-CV^LN||*****|%|11.0-16.0|N|||F",
+      "Index": 12,
+      "SecuenceId": "12",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "788-0^RDW-CV^LN",
+        "Identifier": "788-0",
+        "Text": "RDW-CV",
+        "NameOfCodingSystem": "LN"
+      },
+      "ObservationSubId": "",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "*****",
+        "Arguments": []
+      },
+      "Units": "%",
+      "ReferenceRange": "11.0-16.0",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    },
+    {
+      "Content": "OBX|13|NM|21000-5^RDW-SD^LN||*****|fL|35.0-56.0|N|||F",
+      "Index": 13,
+      "SecuenceId": "13",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "21000-5^RDW-SD^LN",
+        "Identifier": "21000-5",
+        "Text": "RDW-SD",
+        "NameOfCodingSystem": "LN"
+      },
+      "ObservationSubId": "",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "*****",
+        "Arguments": []
+      },
+      "Units": "fL",
+      "ReferenceRange": "35.0-56.0",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    },
+    {
+      "Content": "OBX|14|NM|4544-3^HCT^LN||0.0|%|37.0-54.0|L~N|||F",
+      "Index": 14,
+      "SecuenceId": "14",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "4544-3^HCT^LN",
+        "Identifier": "4544-3",
+        "Text": "HCT",
+        "NameOfCodingSystem": "LN"
+      },
+      "ObservationSubId": "",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "0.0",
+        "Arguments": []
+      },
+      "Units": "%",
+      "ReferenceRange": "37.0-54.0",
+      "AbnormalFlags": "L~N",
+      "ObservationResultStatus": "F"
+    },
+    {
+      "Content": "OBX|15|NM|777-3^PLT^LN||1|10*3/uL|100-300|L~N|||F",
+      "Index": 15,
+      "SecuenceId": "15",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "777-3^PLT^LN",
+        "Identifier": "777-3",
+        "Text": "PLT",
+        "NameOfCodingSystem": "LN"
+      },
+      "ObservationSubId": "",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "1",
+        "Arguments": []
+      },
+      "Units": "10*3/uL",
+      "ReferenceRange": "100-300",
+      "AbnormalFlags": "L~N",
+      "ObservationResultStatus": "F"
+    },
+    {
+      "Content": "OBX|16|NM|32623-1^MPV^LN||*****|fL|6.5-12.0|N|||F",
+      "Index": 16,
+      "SecuenceId": "16",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "32623-1^MPV^LN",
+        "Identifier": "32623-1",
+        "Text": "MPV",
+        "NameOfCodingSystem": "LN"
+      },
+      "ObservationSubId": "",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "*****",
+        "Arguments": []
+      },
+      "Units": "fL",
+      "ReferenceRange": "6.5-12.0",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    },
+    {
+      "Content": "OBX|17|NM|32207-3^PDW^LN||*****||15.0-17.0|N|||F",
+      "Index": 17,
+      "SecuenceId": "17",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "32207-3^PDW^LN",
+        "Identifier": "32207-3",
+        "Text": "PDW",
+        "NameOfCodingSystem": "LN"
+      },
+      "ObservationSubId": "",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "*****",
+        "Arguments": []
+      },
+      "Units": "",
+      "ReferenceRange": "15.0-17.0",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    },
+    {
+      "Content": "OBX|18|NM|10002^PCT^99MRC||*****|%|0.108-0.282|N|||F",
+      "Index": 18,
+      "SecuenceId": "18",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "10002^PCT^99MRC",
+        "Identifier": "10002",
+        "Text": "PCT",
+        "NameOfCodingSystem": "99MRC"
+      },
+      "ObservationSubId": "",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "*****",
+        "Arguments": []
+      },
+      "Units": "%",
+      "ReferenceRange": "0.108-0.282",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    },
+    {
+      "Content": "OBX|19|NM|10027^MID#^99MRC||*****|10*3/uL|0.1-1.5|N|||F",
+      "Index": 19,
+      "SecuenceId": "19",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "10027^MID#^99MRC",
+        "Identifier": "10027",
+        "Text": "MID#",
+        "NameOfCodingSystem": "99MRC"
+      },
+      "ObservationSubId": "",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "*****",
+        "Arguments": []
+      },
+      "Units": "10*3/uL",
+      "ReferenceRange": "0.1-1.5",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    },
+    {
+      "Content": "OBX|20|NM|10029^MID%^99MRC||*****|%|3.0-15.0|N|||F",
+      "Index": 20,
+      "SecuenceId": "20",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "10029^MID%^99MRC",
+        "Identifier": "10029",
+        "Text": "MID%",
+        "NameOfCodingSystem": "99MRC"
+      },
+      "ObservationSubId": "",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "*****",
+        "Arguments": []
+      },
+      "Units": "%",
+      "ReferenceRange": "3.0-15.0",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    },
+    {
+      "Content": "OBX|21|NM|10028^GRAN#^99MRC||*****|10*3/uL|2.0-7.0|N|||F",
+      "Index": 21,
+      "SecuenceId": "21",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "10028^GRAN#^99MRC",
+        "Identifier": "10028",
+        "Text": "GRAN#",
+        "NameOfCodingSystem": "99MRC"
+      },
+      "ObservationSubId": "",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "*****",
+        "Arguments": []
+      },
+      "Units": "10*3/uL",
+      "ReferenceRange": "2.0-7.0",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    },
+    {
+      "Content": "OBX|22|NM|10030^GRAN%^99MRC||*****|%|50.0-70.0|N|||F",
+      "Index": 22,
+      "SecuenceId": "22",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "10030^GRAN%^99MRC",
+        "Identifier": "10030",
+        "Text": "GRAN%",
+        "NameOfCodingSystem": "99MRC"
+      },
+      "ObservationSubId": "",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "*****",
+        "Arguments": []
+      },
+      "Units": "%",
+      "ReferenceRange": "50.0-70.0",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    }
+  ],
+  "MessageAcknowledgment": null,
+  "ErrorACK": null,
+  "QueryACK": null,
+  "QueryDef": null,
+  "QueryFilter": null,
+  "DisplayDataList": null,
+  "ContinuesPointer": null
+}
+
+06/03/2024 15:09:28-{"Header":{"Content":"|^~\\&|||||20240307040356||ORU^R01|1|P|2.3.1||||||UNICODE","_obsResultCount":22,"FieldSeparator":"|","EncodigCharacters":"^~\\&","EncodingCharacterList":["^","~","\\","&"],"SendingApplication":"","SendingFacility":"","ReceivingApplication":"","ReceivingFacility":"","DateTimeOfMessage":"20240307040356","Security":"","MessageType":"ORU^R01","MessageControlId":"1","ProcessingId":"P","VersionId":"2.3.1","SequenceNumber":"","ContinuationPointer":"","AcceptanceACK":"","AppACK":"","CountryCode":"","CharacterSet":"UNICODE","PrincipalLanguage":null,"AlternateCharacterSet":null},"PatientId":{"Content":"PID|1||^^^^MR","PatientIdentifier":"MR","PatientNameContent":null,"Patient":null,"DateOfBirth":"0001-01-01T00:00:00","Sex":null},"PatientVisit":{"Content":"PV1|1"},"ObservationRequest":{"Content":"OBR|1||1|00001^Automated Count^99MRC|||20230801032922|||||||||||||||||HM||||||||service","SetId":"1","PlaceOrderNumber":"","FillerOrderNumber":"1","UniversalServiceId":"","Priority":null,"RequestedTime":"0001-01-01T00:00:00","ObservationTime":"2023-08-01T03:29:22","CollectorId":"","RelevantClinicalInfo":"","SpecimenReceivedTime":"0001-01-01T00:00:00","SpecimenSource":"","ApprovalTime":"0001-01-01T00:00:00","DiagnosticServId":"HM","ResultCopiesTo":"service","ResultInterpreter":null},"ObservationResultList":[{"Content":"OBX|1|IS|08001^Take Mode^99MRC||O||||||F","Index":1,"SecuenceId":"1","ValueType":"IS","ObservationIdentifier":{"Content":"08001^Take Mode^99MRC","Identifier":"08001","Text":"Take Mode","NameOfCodingSystem":"99MRC"},"ObservationSubId":"","ObservationNumericValue":0.0,"ObservationValue":{"Value":"O","Arguments":[]},"Units":"","ReferenceRange":"","AbnormalFlags":"","ObservationResultStatus":"F"},{"Content":"OBX|2|IS|08002^Blood Mode^99MRC||W||||||F","Index":2,"SecuenceId":"2","ValueType":"IS","ObservationIdentifier":{"Content":"08002^Blood Mode^99MRC","Identifier":"08002","Text":"Blood Mode","NameOfCodingSystem":"99MRC"},"ObservationSubId":"","ObservationNumericValue":0.0,"ObservationValue":{"Value":"W","Arguments":[]},"Units":"","ReferenceRange":"","AbnormalFlags":"","ObservationResultStatus":"F"},{"Content":"OBX|3|IS|01002^Ref Group^99MRC||General||||||F","Index":3,"SecuenceId":"3","ValueType":"IS","ObservationIdentifier":{"Content":"01002^Ref Group^99MRC","Identifier":"01002","Text":"Ref Group","NameOfCodingSystem":"99MRC"},"ObservationSubId":"","ObservationNumericValue":0.0,"ObservationValue":{"Value":"General","Arguments":[]},"Units":"","ReferenceRange":"","AbnormalFlags":"","ObservationResultStatus":"F"},{"Content":"OBX|4|NM|6690-2^WBC^LN||0.0|10*3/uL|4.0-10.0|L~N|||F","Index":4,"SecuenceId":"4","ValueType":"NM","ObservationIdentifier":{"Content":"6690-2^WBC^LN","Identifier":"6690-2","Text":"WBC","NameOfCodingSystem":"LN"},"ObservationSubId":"","ObservationNumericValue":0.0,"ObservationValue":{"Value":"0.0","Arguments":[]},"Units":"10*3/uL","ReferenceRange":"4.0-10.0","AbnormalFlags":"L~N","ObservationResultStatus":"F"},{"Content":"OBX|5|NM|731-0^LYM#^LN||*****|10*3/uL|0.8-4.0|N|||F","Index":5,"SecuenceId":"5","ValueType":"NM","ObservationIdentifier":{"Content":"731-0^LYM#^LN","Identifier":"731-0","Text":"LYM#","NameOfCodingSystem":"LN"},"ObservationSubId":"","ObservationNumericValue":0.0,"ObservationValue":{"Value":"*****","Arguments":[]},"Units":"10*3/uL","ReferenceRange":"0.8-4.0","AbnormalFlags":"N","ObservationResultStatus":"F"},{"Content":"OBX|6|NM|736-9^LYM%^LN||*****|%|20.0-40.0|N|||F","Index":6,"SecuenceId":"6","ValueType":"NM","ObservationIdentifier":{"Content":"736-9^LYM%^LN","Identifier":"736-9","Text":"LYM%","NameOfCodingSystem":"LN"},"ObservationSubId":"","ObservationNumericValue":0.0,"ObservationValue":{"Value":"*****","Arguments":[]},"Units":"%","ReferenceRange":"20.0-40.0","AbnormalFlags":"N","ObservationResultStatus":"F"},{"Content":"OBX|7|NM|789-8^RBC^LN||0.00|10*6/uL|3.50-5.50|L~N|||F","Index":7,"SecuenceId":"7","ValueType":"NM","ObservationIdentifier":{"Content":"789-8^RBC^LN","Identifier":"789-8","Text":"RBC","NameOfCodingSystem":"LN"},"ObservationSubId":"","ObservationNumericValue":0.0,"ObservationValue":{"Value":"0.00","Arguments":[]},"Units":"10*6/uL","ReferenceRange":"3.50-5.50","AbnormalFlags":"L~N","ObservationResultStatus":"F"},{"Content":"OBX|8|NM|718-7^HGB^LN||0.0|g/dL|11.0-16.0|L~N|||F","Index":8,"SecuenceId":"8","ValueType":"NM","ObservationIdentifier":{"Content":"718-7^HGB^LN","Identifier":"718-7","Text":"HGB","NameOfCodingSystem":"LN"},"ObservationSubId":"","ObservationNumericValue":0.0,"ObservationValue":{"Value":"0.0","Arguments":[]},"Units":"g/dL","ReferenceRange":"11.0-16.0","AbnormalFlags":"L~N","ObservationResultStatus":"F"},{"Content":"OBX|9|NM|787-2^MCV^LN||*****|fL|80.0-100.0|N|||F","Index":9,"SecuenceId":"9","ValueType":"NM","ObservationIdentifier":{"Content":"787-2^MCV^LN","Identifier":"787-2","Text":"MCV","NameOfCodingSystem":"LN"},"ObservationSubId":"","ObservationNumericValue":0.0,"ObservationValue":{"Value":"*****","Arguments":[]},"Units":"fL","ReferenceRange":"80.0-100.0","AbnormalFlags":"N","ObservationResultStatus":"F"},{"Content":"OBX|10|NM|785-6^MCH^LN||*****|pg|27.0-34.0|N|||F","Index":10,"SecuenceId":"10","ValueType":"NM","ObservationIdentifier":{"Content":"785-6^MCH^LN","Identifier":"785-6","Text":"MCH","NameOfCodingSystem":"LN"},"ObservationSubId":"","ObservationNumericValue":0.0,"ObservationValue":{"Value":"*****","Arguments":[]},"Units":"pg","ReferenceRange":"27.0-34.0","AbnormalFlags":"N","ObservationResultStatus":"F"},{"Content":"OBX|11|NM|786-4^MCHC^LN||*****|g/dL|32.0-36.0|N|||F","Index":11,"SecuenceId":"11","ValueType":"NM","ObservationIdentifier":{"Content":"786-4^MCHC^LN","Identifier":"786-4","Text":"MCHC","NameOfCodingSystem":"LN"},"ObservationSubId":"","ObservationNumericValue":0.0,"ObservationValue":{"Value":"*****","Arguments":[]},"Units":"g/dL","ReferenceRange":"32.0-36.0","AbnormalFlags":"N","ObservationResultStatus":"F"},{"Content":"OBX|12|NM|788-0^RDW-CV^LN||*****|%|11.0-16.0|N|||F","Index":12,"SecuenceId":"12","ValueType":"NM","ObservationIdentifier":{"Content":"788-0^RDW-CV^LN","Identifier":"788-0","Text":"RDW-CV","NameOfCodingSystem":"LN"},"ObservationSubId":"","ObservationNumericValue":0.0,"ObservationValue":{"Value":"*****","Arguments":[]},"Units":"%","ReferenceRange":"11.0-16.0","AbnormalFlags":"N","ObservationResultStatus":"F"},{"Content":"OBX|13|NM|21000-5^RDW-SD^LN||*****|fL|35.0-56.0|N|||F","Index":13,"SecuenceId":"13","ValueType":"NM","ObservationIdentifier":{"Content":"21000-5^RDW-SD^LN","Identifier":"21000-5","Text":"RDW-SD","NameOfCodingSystem":"LN"},"ObservationSubId":"","ObservationNumericValue":0.0,"ObservationValue":{"Value":"*****","Arguments":[]},"Units":"fL","ReferenceRange":"35.0-56.0","AbnormalFlags":"N","ObservationResultStatus":"F"},{"Content":"OBX|14|NM|4544-3^HCT^LN||0.0|%|37.0-54.0|L~N|||F","Index":14,"SecuenceId":"14","ValueType":"NM","ObservationIdentifier":{"Content":"4544-3^HCT^LN","Identifier":"4544-3","Text":"HCT","NameOfCodingSystem":"LN"},"ObservationSubId":"","ObservationNumericValue":0.0,"ObservationValue":{"Value":"0.0","Arguments":[]},"Units":"%","ReferenceRange":"37.0-54.0","AbnormalFlags":"L~N","ObservationResultStatus":"F"},{"Content":"OBX|15|NM|777-3^PLT^LN||1|10*3/uL|100-300|L~N|||F","Index":15,"SecuenceId":"15","ValueType":"NM","ObservationIdentifier":{"Content":"777-3^PLT^LN","Identifier":"777-3","Text":"PLT","NameOfCodingSystem":"LN"},"ObservationSubId":"","ObservationNumericValue":0.0,"ObservationValue":{"Value":"1","Arguments":[]},"Units":"10*3/uL","ReferenceRange":"100-300","AbnormalFlags":"L~N","ObservationResultStatus":"F"},{"Content":"OBX|16|NM|32623-1^MPV^LN||*****|fL|6.5-12.0|N|||F","Index":16,"SecuenceId":"16","ValueType":"NM","ObservationIdentifier":{"Content":"32623-1^MPV^LN","Identifier":"32623-1","Text":"MPV","NameOfCodingSystem":"LN"},"ObservationSubId":"","ObservationNumericValue":0.0,"ObservationValue":{"Value":"*****","Arguments":[]},"Units":"fL","ReferenceRange":"6.5-12.0","AbnormalFlags":"N","ObservationResultStatus":"F"},{"Content":"OBX|17|NM|32207-3^PDW^LN||*****||15.0-17.0|N|||F","Index":17,"SecuenceId":"17","ValueType":"NM","ObservationIdentifier":{"Content":"32207-3^PDW^LN","Identifier":"32207-3","Text":"PDW","NameOfCodingSystem":"LN"},"ObservationSubId":"","ObservationNumericValue":0.0,"ObservationValue":{"Value":"*****","Arguments":[]},"Units":"","ReferenceRange":"15.0-17.0","AbnormalFlags":"N","ObservationResultStatus":"F"},{"Content":"OBX|18|NM|10002^PCT^99MRC||*****|%|0.108-0.282|N|||F","Index":18,"SecuenceId":"18","ValueType":"NM","ObservationIdentifier":{"Content":"10002^PCT^99MRC","Identifier":"10002","Text":"PCT","NameOfCodingSystem":"99MRC"},"ObservationSubId":"","ObservationNumericValue":0.0,"ObservationValue":{"Value":"*****","Arguments":[]},"Units":"%","ReferenceRange":"0.108-0.282","AbnormalFlags":"N","ObservationResultStatus":"F"},{"Content":"OBX|19|NM|10027^MID#^99MRC||*****|10*3/uL|0.1-1.5|N|||F","Index":19,"SecuenceId":"19","ValueType":"NM","ObservationIdentifier":{"Content":"10027^MID#^99MRC","Identifier":"10027","Text":"MID#","NameOfCodingSystem":"99MRC"},"ObservationSubId":"","ObservationNumericValue":0.0,"ObservationValue":{"Value":"*****","Arguments":[]},"Units":"10*3/uL","ReferenceRange":"0.1-1.5","AbnormalFlags":"N","ObservationResultStatus":"F"},{"Content":"OBX|20|NM|10029^MID%^99MRC||*****|%|3.0-15.0|N|||F","Index":20,"SecuenceId":"20","ValueType":"NM","ObservationIdentifier":{"Content":"10029^MID%^99MRC","Identifier":"10029","Text":"MID%","NameOfCodingSystem":"99MRC"},"ObservationSubId":"","ObservationNumericValue":0.0,"ObservationValue":{"Value":"*****","Arguments":[]},"Units":"%","ReferenceRange":"3.0-15.0","AbnormalFlags":"N","ObservationResultStatus":"F"},{"Content":"OBX|21|NM|10028^GRAN#^99MRC||*****|10*3/uL|2.0-7.0|N|||F","Index":21,"SecuenceId":"21","ValueType":"NM","ObservationIdentifier":{"Content":"10028^GRAN#^99MRC","Identifier":"10028","Text":"GRAN#","NameOfCodingSystem":"99MRC"},"ObservationSubId":"","ObservationNumericValue":0.0,"ObservationValue":{"Value":"*****","Arguments":[]},"Units":"10*3/uL","ReferenceRange":"2.0-7.0","AbnormalFlags":"N","ObservationResultStatus":"F"},{"Content":"OBX|22|NM|10030^GRAN%^99MRC||*****|%|50.0-70.0|N|||F","Index":22,"SecuenceId":"22","ValueType":"NM","ObservationIdentifier":{"Content":"10030^GRAN%^99MRC","Identifier":"10030","Text":"GRAN%","NameOfCodingSystem":"99MRC"},"ObservationSubId":"","ObservationNumericValue":0.0,"ObservationValue":{"Value":"*****","Arguments":[]},"Units":"%","ReferenceRange":"50.0-70.0","AbnormalFlags":"N","ObservationResultStatus":"F"}],"MessageAcknowledgment":null,"ErrorACK":null,"QueryACK":null,"QueryDef":null,"QueryFilter":null,"DisplayDataList":null,"ContinuesPointer":null}
+
+06/03/2024 15:13:19-Conectando con GALILEO ONLINE
+
+06/03/2024 15:13:30-Se encuentra el analizador configurado.
+
+06/03/2024 15:13:31-Inicia la aplicación
+
+06/03/2024 15:13:31-Esperando Conexión del Instrumento Mindray BC-20S
+
+06/03/2024 15:13:38-Conectado al analizador por  el puerto: 5100 por TCP/IP
+

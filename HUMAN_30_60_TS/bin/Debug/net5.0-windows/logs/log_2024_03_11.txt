@@ -1,0 +1,50 @@
+11/03/2024 10:58:03-Conectando con GALILEO ONLINE
+
+11/03/2024 10:58:06-Se encuentra el analizador configurado.
+
+11/03/2024 10:58:06-Inicia la aplicación
+
+11/03/2024 10:58:06-Esperando Conexión del Instrumento HUMAN 30/60 TS
+
+11/03/2024 10:58:06-Sensando la ruta: c:\temporal\results 
+
+11/03/2024 10:58:06-Se ha encontrado el archivo c:\temporal\results\202302221450092023022214325220230222143540GALILEO_20230222015718.astm
+
+H|\^&|||Sphera^V1.0|||||Host||P|1|20230222143539
+ P|1||202302220016-52||TORRES^MORILLO^^SEGUNDO^TOBIAS||19910000||||||||||||||||||||||||||
+  C|1|||
+  O|1|||Glu|False||||||||||Serum|||||||||||||||
+   R|1|Glu||mg/dl||||97.0||||20230222142139|
+  O|2|||UreaUV|False||||||||||Serum|||||||||||||||
+   R|1|UreaUV||mg/dl||||34.7||||20230222142210|
+  O|3|||CreaA|False||||||||||Serum|||||||||||||||
+   R|1|CreaA||mg/dl||||1.67||||20230222142246|
+ P|2||202302220018-52||DIAZ^MERA^JOSE^SAMUEL^||19850000||||||||||||||||||||||||||
+  C|2|||
+  O|1|||Glu|False||||||||||Serum|||||||||||||||
+   R|1|Glu||mg/dl||||97.5||||20230222142329|
+  O|2|||UreaUV|False||||||||||Serum|||||||||||||||
+   R|1|UreaUV||mg/dl||||36.3||||20230222142357|
+  O|3|||CreaA|False||||||||||Serum|||||||||||||||
+   R|1|CreaA||mg/dl||||1.75||||20230222142437|
+ P|3||202302220019-52||LOPEZ^^RN^||20230000||||||||||||||||||||||||||
+  C|3|||
+  O|1|||Glu|False||||||||||Serum|||||||||||||||
+   R|1|Glu||mg/dl||||74.1||||20230222142517|
+L||N
+
+
+11/03/2024 10:58:07-Se mueve el archivo: c:\temporal\results\old\20240311105806202302221450092023022214325220230222143540GALILEO_20230222015718.astm
+
+11/03/2024 10:58:52-Conectando con GALILEO ONLINE
+
+11/03/2024 10:58:54-Se encuentra el analizador configurado.
+
+11/03/2024 10:58:54-Inicia la aplicación
+
+11/03/2024 10:58:54-Esperando Conexión del Instrumento HUMAN 30/60 TS
+
+11/03/2024 10:58:54-Escuchando el puerto: COM3 
+
+11/03/2024 11:08:26-Conectando con GALILEO ONLINE
+

@@ -1,0 +1,8 @@
+14/2/2024 8:37:03-Conectando con GALILEO ONLINE
+
+14/2/2024 8:37:15-Se encuentra el analizador configurado.
+
+14/2/2024 8:37:15-Inicia la aplicación
+
+14/2/2024 8:37:15-Esperando Conexión del Instrumento Mindray BC5000
+

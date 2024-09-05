@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "b2uKpr/hhn+7b0HKaTEJAE3IS18iLVBGJWFlRkwIj6cwFW5f25QQTqxdNhpVazrYfDMdYEKpWUydytAa+bwgkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Brenda Jimenez\\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\\Escritorio\\INTERFACES\\Galileo_HIS\\Galileo_HIS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Brenda Jimenez\\.nuget\\packages\\itextsharp\\5.5.13.1\\itextsharp.5.5.13.1.nupkg.sha512",
+    "C:\\Users\\Brenda Jimenez\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Brenda Jimenez\\.nuget\\packages\\restsharp\\106.13.0\\restsharp.106.13.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"iTextSharp 5.5.13.1\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\" en lugar de la plataforma de destino del proyecto \"net5.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "iTextSharp",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}

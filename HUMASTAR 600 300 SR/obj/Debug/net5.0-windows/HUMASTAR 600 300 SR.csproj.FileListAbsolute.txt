@@ -1,0 +1,41 @@
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMASTAR 600 300 SR\bin\Debug\net5.0-windows\HUMASTAR 600 300 SR.exe
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMASTAR 600 300 SR\bin\Debug\net5.0-windows\Images\descarga.jpg
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMASTAR 600 300 SR\bin\Debug\net5.0-windows\Images\HumaCount 5D.jpg
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMASTAR 600 300 SR\bin\Debug\net5.0-windows\HUMASTAR 600 300 SR.dll.config
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMASTAR 600 300 SR\bin\Debug\net5.0-windows\HUMASTAR 600 300 SR.deps.json
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMASTAR 600 300 SR\bin\Debug\net5.0-windows\HUMASTAR 600 300 SR.runtimeconfig.json
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMASTAR 600 300 SR\bin\Debug\net5.0-windows\HUMASTAR 600 300 SR.runtimeconfig.dev.json
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMASTAR 600 300 SR\bin\Debug\net5.0-windows\HUMASTAR 600 300 SR.dll
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMASTAR 600 300 SR\bin\Debug\net5.0-windows\ref\HUMASTAR 600 300 SR.dll
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMASTAR 600 300 SR\bin\Debug\net5.0-windows\HUMASTAR 600 300 SR.pdb
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMASTAR 600 300 SR\bin\Debug\net5.0-windows\itextsharp.dll
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMASTAR 600 300 SR\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMASTAR 600 300 SR\bin\Debug\net5.0-windows\RestSharp.dll
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMASTAR 600 300 SR\bin\Debug\net5.0-windows\System.IO.Ports.dll
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMASTAR 600 300 SR\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMASTAR 600 300 SR\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMASTAR 600 300 SR\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMASTAR 600 300 SR\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMASTAR 600 300 SR\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMASTAR 600 300 SR\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMASTAR 600 300 SR\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMASTAR 600 300 SR\bin\Debug\net5.0-windows\Galileo.Connect.dll
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMASTAR 600 300 SR\bin\Debug\net5.0-windows\Galileo.Utils.dll
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMASTAR 600 300 SR\bin\Debug\net5.0-windows\Galileo.Connect.pdb
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMASTAR 600 300 SR\bin\Debug\net5.0-windows\Galileo.Utils.pdb
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMASTAR 600 300 SR\obj\Debug\net5.0-windows\Galileo.Online.Base.frmBase.resources
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMASTAR 600 300 SR\obj\Debug\net5.0-windows\Galileo.Online.Forms.frmEnviarResultado.resources
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMASTAR 600 300 SR\obj\Debug\net5.0-windows\Galileo.Online.Forms.frmWorkList.resources
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMASTAR 600 300 SR\obj\Debug\net5.0-windows\Galileo.Online.MainForm.resources
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMASTAR 600 300 SR\obj\Debug\net5.0-windows\Galileo.Online.Properties.Resources.resources
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMASTAR 600 300 SR\obj\Debug\net5.0-windows\HUMASTAR 600 300 SR.csproj.GenerateResource.cache
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMASTAR 600 300 SR\obj\Debug\net5.0-windows\HUMASTAR 600 300 SR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMASTAR 600 300 SR\obj\Debug\net5.0-windows\HUMASTAR 600 300 SR.AssemblyInfoInputs.cache
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMASTAR 600 300 SR\obj\Debug\net5.0-windows\HUMASTAR 600 300 SR.AssemblyInfo.cs
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMASTAR 600 300 SR\obj\Debug\net5.0-windows\HUMASTAR 600 300 SR.csproj.CoreCompileInputs.cache
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMASTAR 600 300 SR\obj\Debug\net5.0-windows\HUMASTAR 600 300 SR.csproj.CopyComplete
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMASTAR 600 300 SR\obj\Debug\net5.0-windows\HUMASTAR 600 300 SR.dll
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMASTAR 600 300 SR\obj\Debug\net5.0-windows\ref\HUMASTAR 600 300 SR.dll
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMASTAR 600 300 SR\obj\Debug\net5.0-windows\HUMASTAR 600 300 SR.pdb
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMASTAR 600 300 SR\obj\Debug\net5.0-windows\HUMASTAR 600 300 SR.genruntimeconfig.cache
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMASTAR 600 300 SR\obj\Debug\net5.0-windows\HUMASTAR 600 300 SR.csprojAssemblyReference.cache

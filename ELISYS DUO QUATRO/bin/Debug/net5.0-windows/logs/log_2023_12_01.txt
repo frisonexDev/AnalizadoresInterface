@@ -1,0 +1,10 @@
+1/12/2023 13:44:36-Conectando con GALILEO ONLINE
+
+1/12/2023 13:44:40-Se encuentra el analizador configurado.
+
+1/12/2023 13:44:40-Inicia la aplicación
+
+1/12/2023 13:44:40-Esperando Conexión del Instrumento ELISYS
+
+1/12/2023 13:44:40-Escuchando el puerto: COM1 
+

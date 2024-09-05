@@ -1,0 +1,82 @@
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\HUMACOUNT_30_60_TS.exe
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\Images\descarga.jpg
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\Images\HumaCount 5D.jpg
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\Images\humacount.jpg
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\HUMACOUNT_30_60_TS.dll.config
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\HUMACOUNT_30_60_TS.deps.json
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\HUMACOUNT_30_60_TS.runtimeconfig.json
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\HUMACOUNT_30_60_TS.runtimeconfig.dev.json
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\HUMACOUNT_30_60_TS.dll
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\ref\HUMACOUNT_30_60_TS.dll
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\HUMACOUNT_30_60_TS.pdb
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\itextsharp.dll
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\RestSharp.dll
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\System.IO.Ports.dll
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\Galileo.Connect.dll
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\Galileo.Utils.dll
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\Galileo.Connect.pdb
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\Galileo.Utils.pdb
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMAN_30_60_TS\obj\Debug\net5.0-windows\HUMACOUNT_30_60_TS.csproj.AssemblyReference.cache
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMAN_30_60_TS\obj\Debug\net5.0-windows\Galileo.Online.Forms.frmEnviarResultado.resources
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMAN_30_60_TS\obj\Debug\net5.0-windows\Galileo.Online.Forms.frmWorkList.resources
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMAN_30_60_TS\obj\Debug\net5.0-windows\Galileo.Online.MainForm.resources
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMAN_30_60_TS\obj\Debug\net5.0-windows\Galileo.Online.Properties.Resources.resources
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMAN_30_60_TS\obj\Debug\net5.0-windows\HUMACOUNT_30_60_TS.csproj.GenerateResource.cache
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMAN_30_60_TS\obj\Debug\net5.0-windows\HUMACOUNT_30_60_TS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMAN_30_60_TS\obj\Debug\net5.0-windows\HUMACOUNT_30_60_TS.AssemblyInfoInputs.cache
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMAN_30_60_TS\obj\Debug\net5.0-windows\HUMACOUNT_30_60_TS.AssemblyInfo.cs
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMAN_30_60_TS\obj\Debug\net5.0-windows\HUMACOUNT_30_60_TS.csproj.CoreCompileInputs.cache
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMAN_30_60_TS\obj\Debug\net5.0-windows\HUMACOUNT_30_60_TS.csproj.CopyComplete
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMAN_30_60_TS\obj\Debug\net5.0-windows\HUMACOUNT_30_60_TS.dll
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMAN_30_60_TS\obj\Debug\net5.0-windows\ref\HUMACOUNT_30_60_TS.dll
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMAN_30_60_TS\obj\Debug\net5.0-windows\HUMACOUNT_30_60_TS.pdb
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\HUMAN_30_60_TS\obj\Debug\net5.0-windows\HUMACOUNT_30_60_TS.genruntimeconfig.cache
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\HUMACOUNT_30_60_TS.exe
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\Images\descarga.jpg
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\Images\HumaCount 5D.jpg
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\Images\humacount.jpg
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\HUMACOUNT_30_60_TS.dll.config
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\HUMACOUNT_30_60_TS.deps.json
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\HUMACOUNT_30_60_TS.runtimeconfig.json
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\HUMACOUNT_30_60_TS.runtimeconfig.dev.json
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\HUMACOUNT_30_60_TS.dll
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\ref\HUMACOUNT_30_60_TS.dll
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\HUMACOUNT_30_60_TS.pdb
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\itextsharp.dll
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\RestSharp.dll
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\System.IO.Ports.dll
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\Galileo.Connect.dll
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\Galileo.Utils.dll
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\Galileo.Connect.pdb
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\HUMAN_30_60_TS\bin\Debug\net5.0-windows\Galileo.Utils.pdb
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\HUMAN_30_60_TS\obj\Debug\net5.0-windows\HUMACOUNT_30_60_TS.csproj.AssemblyReference.cache
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\HUMAN_30_60_TS\obj\Debug\net5.0-windows\Galileo.Online.Forms.frmEnviarResultado.resources
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\HUMAN_30_60_TS\obj\Debug\net5.0-windows\Galileo.Online.Forms.frmWorkList.resources
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\HUMAN_30_60_TS\obj\Debug\net5.0-windows\Galileo.Online.MainForm.resources
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\HUMAN_30_60_TS\obj\Debug\net5.0-windows\Galileo.Online.Properties.Resources.resources
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\HUMAN_30_60_TS\obj\Debug\net5.0-windows\HUMACOUNT_30_60_TS.csproj.GenerateResource.cache
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\HUMAN_30_60_TS\obj\Debug\net5.0-windows\HUMACOUNT_30_60_TS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\HUMAN_30_60_TS\obj\Debug\net5.0-windows\HUMACOUNT_30_60_TS.AssemblyInfoInputs.cache
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\HUMAN_30_60_TS\obj\Debug\net5.0-windows\HUMACOUNT_30_60_TS.AssemblyInfo.cs
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\HUMAN_30_60_TS\obj\Debug\net5.0-windows\HUMACOUNT_30_60_TS.csproj.CoreCompileInputs.cache
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\HUMAN_30_60_TS\obj\Debug\net5.0-windows\HUMACOUNT_30_60_TS.csproj.CopyComplete
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\HUMAN_30_60_TS\obj\Debug\net5.0-windows\HUMACOUNT_30_60_TS.dll
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\HUMAN_30_60_TS\obj\Debug\net5.0-windows\ref\HUMACOUNT_30_60_TS.dll
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\HUMAN_30_60_TS\obj\Debug\net5.0-windows\HUMACOUNT_30_60_TS.pdb
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\HUMAN_30_60_TS\obj\Debug\net5.0-windows\HUMACOUNT_30_60_TS.genruntimeconfig.cache

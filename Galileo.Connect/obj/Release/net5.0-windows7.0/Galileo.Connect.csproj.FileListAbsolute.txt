@@ -1,0 +1,15 @@
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\INTERFACES\Galileo.Connect\bin\Release\net5.0-windows7.0\Galileo.Connect.deps.json
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\INTERFACES\Galileo.Connect\bin\Release\net5.0-windows7.0\Galileo.Connect.dll
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\INTERFACES\Galileo.Connect\bin\Release\net5.0-windows7.0\ref\Galileo.Connect.dll
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\INTERFACES\Galileo.Connect\bin\Release\net5.0-windows7.0\Galileo.Connect.pdb
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\INTERFACES\Galileo.Connect\bin\Release\net5.0-windows7.0\Galileo.Utils.dll
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\INTERFACES\Galileo.Connect\bin\Release\net5.0-windows7.0\Galileo.Utils.pdb
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\INTERFACES\Galileo.Connect\obj\Release\net5.0-windows7.0\Galileo.Connect.csproj.AssemblyReference.cache
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\INTERFACES\Galileo.Connect\obj\Release\net5.0-windows7.0\Galileo.Connect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\INTERFACES\Galileo.Connect\obj\Release\net5.0-windows7.0\Galileo.Connect.AssemblyInfoInputs.cache
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\INTERFACES\Galileo.Connect\obj\Release\net5.0-windows7.0\Galileo.Connect.AssemblyInfo.cs
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\INTERFACES\Galileo.Connect\obj\Release\net5.0-windows7.0\Galileo.Connect.csproj.CoreCompileInputs.cache
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\INTERFACES\Galileo.Connect\obj\Release\net5.0-windows7.0\Galileo.Connect.csproj.CopyComplete
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\INTERFACES\Galileo.Connect\obj\Release\net5.0-windows7.0\Galileo.Connect.dll
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\INTERFACES\Galileo.Connect\obj\Release\net5.0-windows7.0\ref\Galileo.Connect.dll
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\INTERFACES\Galileo.Connect\obj\Release\net5.0-windows7.0\Galileo.Connect.pdb

@@ -1,0 +1,35 @@
+C:\INTERFACES\LISEscritorio_FRX1\LISEscritorio_FRX1\Galileo.Utils\bin\Debug\net5.0-windows\Galileo.Utils.deps.json
+C:\INTERFACES\LISEscritorio_FRX1\LISEscritorio_FRX1\Galileo.Utils\bin\Debug\net5.0-windows\Galileo.Utils.dll
+C:\INTERFACES\LISEscritorio_FRX1\LISEscritorio_FRX1\Galileo.Utils\bin\Debug\net5.0-windows\Galileo.Utils.pdb
+C:\INTERFACES\LISEscritorio_FRX1\LISEscritorio_FRX1\Galileo.Utils\obj\Debug\net5.0-windows\Galileo.Utils.csproj.AssemblyReference.cache
+C:\INTERFACES\LISEscritorio_FRX1\LISEscritorio_FRX1\Galileo.Utils\obj\Debug\net5.0-windows\Galileo.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\INTERFACES\LISEscritorio_FRX1\LISEscritorio_FRX1\Galileo.Utils\obj\Debug\net5.0-windows\Galileo.Utils.AssemblyInfoInputs.cache
+C:\INTERFACES\LISEscritorio_FRX1\LISEscritorio_FRX1\Galileo.Utils\obj\Debug\net5.0-windows\Galileo.Utils.AssemblyInfo.cs
+C:\INTERFACES\LISEscritorio_FRX1\LISEscritorio_FRX1\Galileo.Utils\obj\Debug\net5.0-windows\Galileo.Utils.csproj.CoreCompileInputs.cache
+C:\INTERFACES\LISEscritorio_FRX1\LISEscritorio_FRX1\Galileo.Utils\obj\Debug\net5.0-windows\Galileo.Utils.dll
+C:\INTERFACES\LISEscritorio_FRX1\LISEscritorio_FRX1\Galileo.Utils\obj\Debug\net5.0-windows\refint\Galileo.Utils.dll
+C:\INTERFACES\LISEscritorio_FRX1\LISEscritorio_FRX1\Galileo.Utils\obj\Debug\net5.0-windows\Galileo.Utils.pdb
+C:\INTERFACES\LISEscritorio_FRX1\LISEscritorio_FRX1\Galileo.Utils\obj\Debug\net5.0-windows\ref\Galileo.Utils.dll
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\Galileo.Utils\bin\Debug\net5.0-windows\Galileo.Utils.deps.json
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\Galileo.Utils\bin\Debug\net5.0-windows\Galileo.Utils.dll
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\Galileo.Utils\bin\Debug\net5.0-windows\ref\Galileo.Utils.dll
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\Galileo.Utils\bin\Debug\net5.0-windows\Galileo.Utils.pdb
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\Galileo.Utils\obj\Debug\net5.0-windows\Galileo.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\Galileo.Utils\obj\Debug\net5.0-windows\Galileo.Utils.AssemblyInfoInputs.cache
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\Galileo.Utils\obj\Debug\net5.0-windows\Galileo.Utils.AssemblyInfo.cs
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\Galileo.Utils\obj\Debug\net5.0-windows\Galileo.Utils.csproj.CoreCompileInputs.cache
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\Galileo.Utils\obj\Debug\net5.0-windows\Galileo.Utils.dll
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\Galileo.Utils\obj\Debug\net5.0-windows\ref\Galileo.Utils.dll
+C:\Users\lvillafuerte\Source\Repos\LISEscritorio_FRX1\Galileo.Utils\obj\Debug\net5.0-windows\Galileo.Utils.pdb
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\Galileo.Utils\bin\Debug\net5.0-windows\Galileo.Utils.deps.json
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\Galileo.Utils\bin\Debug\net5.0-windows\Galileo.Utils.dll
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\Galileo.Utils\bin\Debug\net5.0-windows\ref\Galileo.Utils.dll
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\Galileo.Utils\bin\Debug\net5.0-windows\Galileo.Utils.pdb
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\Galileo.Utils\obj\Debug\net5.0-windows\Galileo.Utils.csproj.AssemblyReference.cache
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\Galileo.Utils\obj\Debug\net5.0-windows\Galileo.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\Galileo.Utils\obj\Debug\net5.0-windows\Galileo.Utils.AssemblyInfoInputs.cache
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\Galileo.Utils\obj\Debug\net5.0-windows\Galileo.Utils.AssemblyInfo.cs
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\Galileo.Utils\obj\Debug\net5.0-windows\Galileo.Utils.csproj.CoreCompileInputs.cache
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\Galileo.Utils\obj\Debug\net5.0-windows\Galileo.Utils.dll
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\Galileo.Utils\obj\Debug\net5.0-windows\ref\Galileo.Utils.dll
+C:\Users\Paul López\Documents\LISEscritorio_FRX1\Galileo.Utils\obj\Debug\net5.0-windows\Galileo.Utils.pdb

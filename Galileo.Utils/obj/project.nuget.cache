@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OfJZ6/JsNK1QpLoHxyralLfrg1aZiQ5EeHZ86jj5rAsZxkdoU1LGBmOTHMYltav5tnWmNlRaBIKMbszvgHmYfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Brenda Jimenez\\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\\Escritorio\\INTERFACES\\Galileo.Utils\\Galileo.Utils.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Brenda Jimenez\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

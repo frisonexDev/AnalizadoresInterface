@@ -1,0 +1,23 @@
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\cmd600\Images\descarga.jpg
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\cmd600\Images\HumaCount 5D.jpg
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\cmd600\CM260.exe
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\cmd600\CM260.dll
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\cmd600\CM260.deps.json
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\cmd600\CM260.runtimeconfig.json
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\cmd600\CM260.dll.config
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\cmd600\CM260.pdb
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\cmd600\itextsharp.dll
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\cmd600\Newtonsoft.Json.dll
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\cmd600\RestSharp.dll
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\cmd600\System.IO.Ports.dll
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\cmd600\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\cmd600\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\cmd600\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\cmd600\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\cmd600\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\cmd600\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\cmd600\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\cmd600\Galileo.Connect.dll
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\cmd600\Galileo.Utils.dll
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\cmd600\Galileo.Connect.pdb
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\cmd600\Galileo.Utils.pdb

@@ -1,0 +1,10 @@
+25/02/2024 07:44:00-Conectando con GALILEO ONLINE
+
+25/02/2024 07:44:07-Se encuentra el analizador configurado.
+
+25/02/2024 07:44:07-Inicia la aplicación
+
+25/02/2024 07:44:07-Esperando Conexión del Instrumento CM260
+
+25/02/2024 07:44:07-Escuchando el puerto: 5051 por TCP/IP
+

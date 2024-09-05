@@ -1,0 +1,12 @@
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\INTERFACES\Galileo.Utils\bin\Release\net5.0-windows\Galileo.Utils.deps.json
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\INTERFACES\Galileo.Utils\bin\Release\net5.0-windows\Galileo.Utils.dll
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\INTERFACES\Galileo.Utils\bin\Release\net5.0-windows\ref\Galileo.Utils.dll
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\INTERFACES\Galileo.Utils\bin\Release\net5.0-windows\Galileo.Utils.pdb
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\INTERFACES\Galileo.Utils\obj\Release\net5.0-windows\Galileo.Utils.csproj.AssemblyReference.cache
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\INTERFACES\Galileo.Utils\obj\Release\net5.0-windows\Galileo.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\INTERFACES\Galileo.Utils\obj\Release\net5.0-windows\Galileo.Utils.AssemblyInfoInputs.cache
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\INTERFACES\Galileo.Utils\obj\Release\net5.0-windows\Galileo.Utils.AssemblyInfo.cs
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\INTERFACES\Galileo.Utils\obj\Release\net5.0-windows\Galileo.Utils.csproj.CoreCompileInputs.cache
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\INTERFACES\Galileo.Utils\obj\Release\net5.0-windows\Galileo.Utils.dll
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\INTERFACES\Galileo.Utils\obj\Release\net5.0-windows\ref\Galileo.Utils.dll
+C:\Users\Brenda Jimenez\OneDrive - FRISONEX FRISON IMPORTADORA EXPORTADORA\Escritorio\INTERFACES\Galileo.Utils\obj\Release\net5.0-windows\Galileo.Utils.pdb
